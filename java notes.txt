@@ -1,0 +1,28 @@
+two types of data types 
+1. primitive - char, int, boolean, short, float, doubt, byte, long
+2. non- primitive- classes, interfaces, arrays
+
+three type of variables
+1. local- declared inside the method
+2. instance- declared inside the class but outside the method 
+3. static - delcared as static it cannot be local, we can create a single copy of static variable and share it acrooss classes
+
+
+Operators in Java
+--------------------
+Unary
+Arithmetic
+Relational
+Bitwise
+Shift
+Logical
+Ternary 
+Assignment
+
+------------------
+Logical && will check if one condition is false it will not execute
+but bitwise & will check both the conditions and execute.
+
+------------
+Left shift -- multiplication* (2^2)
+right shift -- divide /(2^2)
